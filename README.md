@@ -7,9 +7,7 @@ This repository hosts our code for our paper ***Online Multi-Object Tracking via
 - python-opencv  
 - py-motmetrics  
 
-### Installation
-[DCNv2](https://github.com/jinfagang/DCNv2_latest)  
-[PrRoIPooling](https://github.com/vacancy/PreciseRoIPooling)  
+### Installation 
 
 ### Quick Start
 #### Dataset Zoo
