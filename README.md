@@ -1,5 +1,6 @@
 # IDPTracker
-This repository hosts our code for our paper ***Online Multi-Object Tracking via Identity Propagation***.
+This repository hosts our code for our paper ***Online Multi-Object Tracking via Identity Propagation***.  
+***We will release the full code (including training and testing) as soon as possible. Stick around.***
 
 ### Requirements
 - Python3.6  
