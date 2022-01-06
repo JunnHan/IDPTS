@@ -1,5 +1,5 @@
 # IDPTracker
-This repository hosts our code for our paper ***Online Multi-Object Tracking via Identity Propagation***.  
+This repository hosts our code for our paper ***Online Multi-Object Tracking and Segmentation via Identity Propagation***.  
 ***We will release the full code (including training and testing) as soon as possible. Stick around.***
 
 ### Requirements
@@ -7,9 +7,6 @@ This repository hosts our code for our paper ***Online Multi-Object Tracking via
 - Pytorch 1.6.0, torchvision 0.7.0  
 - python-opencv  
 - py-motmetrics  
+- mmdetection
 
 ### Installation 
-
-### Quick Start
-#### Dataset Zoo
-Our method is designed for public detection mode. The preprocessed detection files can be found [here(Learning a Neural Solver for Multiple Object Tracking)](https://github.com/dvl-tum/mot_neural_solver)
